@@ -1,4 +1,4 @@
 Flask==2.0.1
 python-nmap
-re2==0.2.24
+re2
 validators==0.18.2
